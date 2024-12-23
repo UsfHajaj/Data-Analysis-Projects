@@ -13,4 +13,4 @@
 ## Version Control
 <span style="background-color:#F0E68C; padding:2px 5px; border-radius:3px;font-weight:bold;">Git </span> - was instrumental for maintaining and versioning control of the project files
 
-![Overall Performance](Toy Store Sales/Images/Screenshot 2024-12-09 101055.png)
+![Overall Performance](Images/Screenshot 2024-12-09 101055.png)
