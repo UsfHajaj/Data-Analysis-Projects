@@ -127,113 +127,27 @@
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
 ![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
 
-## 🌟 Soft Skills
 
-### 🎯 Problem-Solving & Critical Thinking
-- Proficient in **breaking down complex problems** and designing efficient, scalable solutions.
+### Certifications
 
-### 🧑‍🤝‍🧑 Teamwork & Collaboration
-- Experience working in **cross-functional teams**.
-- Strong **collaboration and communication** skills with both technical and non-technical stakeholders.
+<a href='https://drive.google.com/file/d/1a3ytf-WZmpvRvSo51GeYQV0X8oDSSwbw/view' target="_blank"><img alt='AWS Data Engineering' src='https://img.shields.io/badge/AWS_Data Engineering-100000?style=for-the-badge&logo=AWS Data Engineering&logoColor=white&labelColor=F45402&color=F45402'/></a>
 
-### 💡 Creativity & Innovation
-- **Innovative thinker** with a passion for exploring new technologies and solving real-world problems through AI and data science.
+<a href='https://drive.google.com/file/d/1uvoiL5oWnAQXt2tPinPF9zQL3JVEVj2a/view' target="_blank"><img alt='Artificial Intelligence and Applications Training' src='https://img.shields.io/badge/AI_| ZEWAIL City-100000?style=for-the-badge&logo=Artificial Intelligence and Applications Training&logoColor=white&labelColor=00D0FA&color=00D0FA'/></a>
 
-### 📅 Time Management & Organization
-- Ability to manage multiple projects simultaneously, **prioritizing tasks** and meeting tight deadlines in fast-paced environments.
+<a href='https://coursera.org/share/6f14f65ca58d8e3f737b0606d7b4e887' target="_blank"><img alt='Python for Data Science' src='https://img.shields.io/badge/Python_for Data Science | IBM-100000?style=for-the-badge&logo=Python for Data Science&logoColor=white&labelColor=0532FB&color=0532FB'/></a>
 
-### 🎙️ Communication & Presentation
-- Skilled at conveying technical insights to diverse audiences, making complex data **accessible and actionable**.
-- Proficient in **presenting data-driven findings** clearly and persuasively.
+<a href='https://coursera.org/share/8a673ea6d594a7ce122a935863cbd192' target="_blank"><img alt='Python Project for Data Science ' src='https://img.shields.io/badge/Python_Project for Data Science  | IBM-100000?style=for-the-badge&logo=Python Project for Data Science &logoColor=white&labelColor=3D5CEA&color=3D5CEA'/></a>
 
-### 📈 Continuous Learning
-- A mindset of **continuous learning** with an interest in staying updated with the latest trends in AI, machine learning, and data science.
+<a href='https://coursera.org/share/df1e1bb1c8c70f07558d408f213ec18a' target="_blank"><img alt='Data Analysis' src='https://img.shields.io/badge/Data_Analysis | IBM-100000?style=for-the-badge&logo=Data Analysis&logoColor=white&labelColor=DA0EDD&color=DA0EDD'/></a>
 
+<a href='https://drive.google.com/file/d/1SvZS0cUuhC_G_o5jk5ZA6Xfks0lHPXVw/view' target="_blank"><img alt='Data Analytics Essentials' src='https://img.shields.io/badge/Data_Analytics Essentials | IBM-100000?style=for-the-badge&logo=Data Analytics Essentials&logoColor=white&labelColor=480949&color=480949'/></a>
 
-<br>
+<a href='https://coursera.org/share/f62fd75612da2954dc8811b6fb3d18f6' target="_blank"><img alt='Microsoft Excel' src='https://img.shields.io/badge/Microsoft_Excel-100000?style=for-the-badge&logo=Microsoft Excel&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/></a>
 
-# 📊 Recent Projects in Data Analytics
+<a href='https://coursera.org/share/f297ee05cd30c24de626b7672914100d' target="_blank"><img alt='DNN' src='https://img.shields.io/badge/DNN_| Deeplearning.AI-100000?style=for-the-badge&logo=DNN&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/></a>
 
----
+<a href='https://drive.google.com/file/d/1T6XyaatH99hnp_MuKN-tu4dh-EOMsrZJ/view' target="_blank"><img alt='CCNA' src='https://img.shields.io/badge/CCNA-100000?style=for-the-badge&logo=CCNA&logoColor=white&labelColor=F70101&color=FA0000'/></a>
 
-## 🛒 Customer Segmentation Based on RFM Analysis  
+<a href='https://www.hackerrank.com/certificates/4388b7cccf37' target="_blank"><img alt='SQL' src='https://img.shields.io/badge/SQL_-100000?style=for-the-badge&logo=SQL&logoColor=white&labelColor=09F009&color=07EA03'/></a>
 
-**Description:**  
-🚀 Excited to share my latest project on **Customer Segmentation** using **RFM (Recency, Frequency, Monetary)** analysis for a UK-based online retailer specializing in unique gifts. This project analyzed customer transactions to segment audiences effectively.
-
-[![Customer Segmentation Based on RFM](https://github.com/abdullah0150/Images/blob/main/images/project-2.png)](https://github.com/abdullah-khaled0/Customer-Segmentation-based-on-RFM/blob/main/Presentation.pdf)  
-
-**Business Goal:**  
-🎯 Enable targeted marketing strategies by segmenting customers based on their purchasing behavior.
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-315796?style=flat&logo=matplotlib&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
----
-
-## 🎮 A/B Testing for Cookie Cats Mobile Game  
-
-**Description:**  
-🔍 Led an **A/B Testing** analysis for the mobile game **Cookie Cats**, evaluating player retention between control and test groups. Used statistical techniques like **Shapiro-Wilk**, **Levene's Test**, and **T-tests** to provide business recommendations that improved retention rates.
-
-[![A/B Testing Cookie Cats](https://github.com/abdullah0150/Images/blob/main/images/project-1.png)](https://github.com/abdullah-khaled0/A-B-Testing-with-Cookie-Cats-mobile-game-dataset/blob/main/presentation.pdf)
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
----
-
-## ⚙️ Automated Machine Learning Pipeline for Data Preprocessing, Training, and Evaluation  
-
-**Description:**  
-Built a fully automated machine learning pipeline using **Python** and **DVC**. This pipeline handles data preprocessing, model training using **XGBoost**, and evaluation. Versioning and reproducibility are ensured via **DVC**.
-
-[![Automated ML Pipeline](https://github.com/abdullah0150/Images/blob/main/images/project-3.png)](https://www.linkedin.com/posts/abdullah-khaled-0608a9236_machinelearning-activity-7236010396329869312-zLAS?utm_source=share&utm_medium=member_desktop)
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-F37626?style=flat&logo=dvc&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=flat&logo=xgboost&logoColor=white)
-
----
-
-## 🚀 Comprehensive Sales Performance Enhancement  
-
-**Description:**  
-Analyzed sales data, leading to a **39% YoY growth** in sales by visualizing channel performance and promotional effectiveness using **Power BI**. Provided actionable insights that optimized future sales strategies, driving revenue growth.
-
-[![Sales Performance Enhancement](https://github.com/abdullah0150/Images/blob/main/images/project-5.png)](https://github.com/abdullah-khaled0/Sales-Dashboard-in-PowerBI/blob/main/presentation.pdf)
-
-**Tools & Technologies:**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![DAX](https://img.shields.io/badge/DAX-4B4B4B?style=flat) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=flat&logo=visualization&logoColor=white)
-
----
-
-## 💼 Customer Personality Analysis  
-
-**Description:**  
-Performed customer segmentation using **K-Means Clustering** to categorize customers by behavioral patterns. These insights helped the company design personalized marketing strategies, improving customer engagement and revenue.
-
-[![Customer Personality Analysis](https://github.com/Heba-A-Saleh/images1/blob/main/lv_0_20230317181948.gif)](https://www.kaggle.com/code/abdullah7aled/customer-personality-analysis-in-python)
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![K-Means Clustering](https://img.shields.io/badge/K--Means_Clustering-FF6347?style=flat&logo=clustering)   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
----
-
-## 🎥 Movie Recommendation System  
-
-**Description:**  
-Built a movie recommendation system using the **MovieLens 100k** dataset, optimizing with **SVD** and **grid search**. Achieved an RMSE score of 0.94 to enhance user experience on streaming platforms.
-
-[![Movie Recommendation System](https://github.com/abdullah0150/Images/blob/main/images/project-4.png)](https://github.com/your-username/your-repo-link)
-
-**Tools & Technologies:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SVD](https://img.shields.io/badge/SVD_Model-FF4500?style=flat) ![Grid Search](https://img.shields.io/badge/Grid_Search-orange)
-
----
-  
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah-khaled0&show_icons=true&locale=en&layout=compact" alt="abdullah-khaled0" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah-khaled0&show_icons=true&locale=en" alt="abdullah-khaled0" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-khaled0&" alt="abdullah-khaled0" /></p>
+<a href='https://drive.google.com/drive/u/0/folders/1SsS09y1Bv5lZLlkIgvMBCm5kk0Prg-T4' target="_blank"><img alt='Business Data Analysis Using Excel' src='https://img.shields.io/badge/Business_Data Analysis Using Excel-100000?style=for-the-badge&logo=Business Data Analysis Using Excel&logoColor=white&labelColor=09F009&color=328906'/></a>
