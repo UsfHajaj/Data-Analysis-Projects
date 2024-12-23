@@ -30,7 +30,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:yosefys236@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Mail - Youssef Ibrahim" height="40" width="40" />
+    <img align="center" src="https://github.com/user-attachments/assets/23c27cfb-8b0d-4854-aa78-fd6d94ce0044" alt="Mail - Youssef Ibrahim" height="40" width="40" />
   </a>
 </p>
 
