@@ -93,7 +93,6 @@
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 ### 🤖 Machine Learning & NLP
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -109,28 +108,15 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Langchain](https://img.shields.io/badge/Langchain-000000?style=flat&logo=langchain&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-00A3E0?style=flat&logo=cohere&logoColor=white)
-
-### 🚀 Deployment & MLOps
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-000000?style=flat&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-0055FF?style=flat&logo=dvc&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF69B4?style=flat&logo=githubactions&logoColor=white)
 
 ### 📊 Data Science & Business Intelligence
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-0080FF?style=flat&logo=apache-airflow&logoColor=white)
-![DBT](https://img.shields.io/badge/DBT-000000?style=flat&logo=dbt&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-FF2C20?style=flat&logo=microsoft&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FE7A16?style=flat&logo=etl&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-5382A1?style=flat&logo=nosql&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-00E7B7?style=flat&logo=snowflake&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-4B0082?style=flat&logo=statistics&logoColor=white)
 ![Time Series](https://img.shields.io/badge/Time%20Series-FF4500?style=flat&logo=time-series&logoColor=white)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-000000?style=flat&logo=web-scraping&logoColor=white)
