@@ -175,8 +175,12 @@
     <img alt='Business Data Analysis Using Excel' src='https://img.shields.io/badge/Business_Data Analysis Using Excel-100000?style=for-the-badge&logo=Business Data Analysis Using Excel&logoColor=white&labelColor=09F009&color=328906'/>
   </a>
 </p>
-
 <img src="https://raw.githubusercontent.com/UsfHajaj /UsfHajaj /output/snake.svg" alt="Snake animation" />
+
+###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/UsfHajaj /count.svg?"  />
+</div>
 
 ###
 
