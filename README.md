@@ -1,42 +1,39 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Yousif Ibrahim</h1>
+<h3 align="center">Data Scientist,Data Analyst,AI And NLP Engineer</h3>
+<h3 align="center">transform complex data into clear, actionable insights</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ee/ed/e2/eeede229147eb053fe863ef1cc7faf0b.gif" />
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdullah-khaled0&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah-khaled0" /> 
-</p>
 
 ---
 
 ### 👨‍💻 About Me:
-- 📋 **Resume**: Check out My Resume [**here**](https://docs.google.com/document/d/1_1tkH33oggXdtNtLS1ek_hHgC8YEHGkb/edit?usp=sharing&ouid=114996828737559694387&rtpof=true&sd=true)  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics  
-- 📫 **Reach me at**: [dev.abdullah.khaled@gmail.com](mailto:dev.abdullah.khaled@gmail.com) | **+20 1557504902**  
-- ⚡ **Fun fact**: I'm passionate about learning new things!  
-- 📊 **Tableau Projects**: Check them out [**here**](https://public.tableau.com/app/profile/abdullah.khaled)  
+- 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1sjizdmMks9jmDpW57i_AhbRakb4iI9Fj/view?usp=drive_link)  
+- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics, AI, NLP and LLM 
+- 📫 **Reach me at**: [dev.yosefys236@gmail.com](mailto:yosefys236@gmail.com) | **+20 1127609258**  
+- ⚡ **Fun fact**: I transform complex data into clear, actionable insights!  
+- 📊 **Projects**: Check them out [**here**](https://github.com/UsfHajaj/Data-Analysis-Projects)  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/abdullah-khaled-0608a9236" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Abdullah Khaled" height="40" width="40" />
+<h3 align="left">🌐 Connect with Me:</h3>
+<p align="left" style="line-height: 2;">
+  <a href="https://www.linkedin.com/in/yousif-ibrahim-8103b91b6/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Youssef Ibrahim" height="40" width="40" />
   </a>
-  <a href="https://kaggle.com/abdullah7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Abdullah Khaled" height="40" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/yosefibrahim" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Youssef Ibrahim" height="40" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/abdullah_7aled" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Abdullah Khaled" height="40" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/yosefys236" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank - Youssef Ibrahim" height="40" width="40" />
   </a>
-  <a href="https://wa.me/+201557504902" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp - Abdullah Khaled" height="40" width="40" />
-  </a>
-  <a href="https://t.me" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram - Abdullah Khaled" height="40" width="40" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:yosefys236@gmail.com" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Mail - Youssef Ibrahim" height="40" width="40" />
   </a>
 </p>
+
 
 
 <br>
