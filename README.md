@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/yousif-ibrahim-8103b91b6/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Youssef Ibrahim" height="40" width="40" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  
   <a href="https://www.kaggle.com/yosefibrahim" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle - Youssef Ibrahim" height="40" width="40" />
   </a>
