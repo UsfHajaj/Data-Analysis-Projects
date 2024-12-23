@@ -130,24 +130,49 @@
 
 ### Certifications
 
-<a href='https://drive.google.com/file/d/1a3ytf-WZmpvRvSo51GeYQV0X8oDSSwbw/view' target="_blank"><img alt='AWS Data Engineering' src='https://img.shields.io/badge/AWS_Data Engineering-100000?style=for-the-badge&logo=AWS Data Engineering&logoColor=white&labelColor=F45402&color=F45402'/></a>
+<p align="left" style="line-height: 2; display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href='https://drive.google.com/file/d/1a3ytf-WZmpvRvSo51GeYQV0X8oDSSwbw/view' target="_blank">
+    <img alt='AWS Data Engineering' src='https://img.shields.io/badge/AWS_Data Engineering-100000?style=for-the-badge&logo=AWS Data Engineering&logoColor=white&labelColor=F45402&color=F45402'/>
+  </a>
+  
+  <a href='https://drive.google.com/file/d/1uvoiL5oWnAQXt2tPinPF9zQL3JVEVj2a/view' target="_blank">
+    <img alt='Artificial Intelligence and Applications Training' src='https://img.shields.io/badge/AI_| ZEWAIL City-100000?style=for-the-badge&logo=Artificial Intelligence and Applications Training&logoColor=white&labelColor=00D0FA&color=00D0FA'/>
+  </a>
+  
+  <a href='https://coursera.org/share/6f14f65ca58d8e3f737b0606d7b4e887' target="_blank">
+    <img alt='Python for Data Science' src='https://img.shields.io/badge/Python_for Data Science | IBM-100000?style=for-the-badge&logo=Python for Data Science&logoColor=white&labelColor=0532FB&color=0532FB'/>
+  </a>
+  
+  <a href='https://coursera.org/share/8a673ea6d594a7ce122a935863cbd192' target="_blank">
+    <img alt='Python Project for Data Science' src='https://img.shields.io/badge/Python_Project for Data Science  | IBM-100000?style=for-the-badge&logo=Python Project for Data Science &logoColor=white&labelColor=3D5CEA&color=3D5CEA'/>
+  </a>
+  
+  <a href='https://coursera.org/share/df1e1bb1c8c70f07558d408f213ec18a' target="_blank">
+    <img alt='Data Analysis' src='https://img.shields.io/badge/Data_Analysis | IBM-100000?style=for-the-badge&logo=Data Analysis&logoColor=white&labelColor=DA0EDD&color=DA0EDD'/>
+  </a>
+  
+  <a href='https://drive.google.com/file/d/1SvZS0cUuhC_G_o5jk5ZA6Xfks0lHPXVw/view' target="_blank">
+    <img alt='Data Analytics Essentials' src='https://img.shields.io/badge/Data_Analytics Essentials | IBM-100000?style=for-the-badge&logo=Data Analytics Essentials&logoColor=white&labelColor=480949&color=480949'/>
+  </a>
+  
+  <a href='https://coursera.org/share/f62fd75612da2954dc8811b6fb3d18f6' target="_blank">
+    <img alt='Microsoft Excel' src='https://img.shields.io/badge/Microsoft_Excel-100000?style=for-the-badge&logo=Microsoft Excel&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/>
+  </a>
+  
+  <a href='https://coursera.org/share/f297ee05cd30c24de626b7672914100d' target="_blank">
+    <img alt='DNN' src='https://img.shields.io/badge/DNN_| Deeplearning.AI-100000?style=for-the-badge&logo=DNN&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/>
+  </a>
+  
+  <a href='https://drive.google.com/file/d/1T6XyaatH99hnp_MuKN-tu4dh-EOMsrZJ/view' target="_blank">
+    <img alt='CCNA' src='https://img.shields.io/badge/CCNA-100000?style=for-the-badge&logo=CCNA&logoColor=white&labelColor=F70101&color=FA0000'/>
+  </a>
+  
+  <a href='https://www.hackerrank.com/certificates/4388b7cccf37' target="_blank">
+    <img alt='SQL' src='https://img.shields.io/badge/SQL_-100000?style=for-the-badge&logo=SQL&logoColor=white&labelColor=09F009&color=07EA03'/>
+  </a>
+  
+  <a href='https://drive.google.com/drive/u/0/folders/1SsS09y1Bv5lZLlkIgvMBCm5kk0Prg-T4' target="_blank">
+    <img alt='Business Data Analysis Using Excel' src='https://img.shields.io/badge/Business_Data Analysis Using Excel-100000?style=for-the-badge&logo=Business Data Analysis Using Excel&logoColor=white&labelColor=09F009&color=328906'/>
+  </a>
+</p>
 
-<a href='https://drive.google.com/file/d/1uvoiL5oWnAQXt2tPinPF9zQL3JVEVj2a/view' target="_blank"><img alt='Artificial Intelligence and Applications Training' src='https://img.shields.io/badge/AI_| ZEWAIL City-100000?style=for-the-badge&logo=Artificial Intelligence and Applications Training&logoColor=white&labelColor=00D0FA&color=00D0FA'/></a>
-
-<a href='https://coursera.org/share/6f14f65ca58d8e3f737b0606d7b4e887' target="_blank"><img alt='Python for Data Science' src='https://img.shields.io/badge/Python_for Data Science | IBM-100000?style=for-the-badge&logo=Python for Data Science&logoColor=white&labelColor=0532FB&color=0532FB'/></a>
-
-<a href='https://coursera.org/share/8a673ea6d594a7ce122a935863cbd192' target="_blank"><img alt='Python Project for Data Science ' src='https://img.shields.io/badge/Python_Project for Data Science  | IBM-100000?style=for-the-badge&logo=Python Project for Data Science &logoColor=white&labelColor=3D5CEA&color=3D5CEA'/></a>
-
-<a href='https://coursera.org/share/df1e1bb1c8c70f07558d408f213ec18a' target="_blank"><img alt='Data Analysis' src='https://img.shields.io/badge/Data_Analysis | IBM-100000?style=for-the-badge&logo=Data Analysis&logoColor=white&labelColor=DA0EDD&color=DA0EDD'/></a>
-
-<a href='https://drive.google.com/file/d/1SvZS0cUuhC_G_o5jk5ZA6Xfks0lHPXVw/view' target="_blank"><img alt='Data Analytics Essentials' src='https://img.shields.io/badge/Data_Analytics Essentials | IBM-100000?style=for-the-badge&logo=Data Analytics Essentials&logoColor=white&labelColor=480949&color=480949'/></a>
-
-<a href='https://coursera.org/share/f62fd75612da2954dc8811b6fb3d18f6' target="_blank"><img alt='Microsoft Excel' src='https://img.shields.io/badge/Microsoft_Excel-100000?style=for-the-badge&logo=Microsoft Excel&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/></a>
-
-<a href='https://coursera.org/share/f297ee05cd30c24de626b7672914100d' target="_blank"><img alt='DNN' src='https://img.shields.io/badge/DNN_| Deeplearning.AI-100000?style=for-the-badge&logo=DNN&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/></a>
-
-<a href='https://drive.google.com/file/d/1T6XyaatH99hnp_MuKN-tu4dh-EOMsrZJ/view' target="_blank"><img alt='CCNA' src='https://img.shields.io/badge/CCNA-100000?style=for-the-badge&logo=CCNA&logoColor=white&labelColor=F70101&color=FA0000'/></a>
-
-<a href='https://www.hackerrank.com/certificates/4388b7cccf37' target="_blank"><img alt='SQL' src='https://img.shields.io/badge/SQL_-100000?style=for-the-badge&logo=SQL&logoColor=white&labelColor=09F009&color=07EA03'/></a>
-
-<a href='https://drive.google.com/drive/u/0/folders/1SsS09y1Bv5lZLlkIgvMBCm5kk0Prg-T4' target="_blank"><img alt='Business Data Analysis Using Excel' src='https://img.shields.io/badge/Business_Data Analysis Using Excel-100000?style=for-the-badge&logo=Business Data Analysis Using Excel&logoColor=white&labelColor=09F009&color=328906'/></a>
