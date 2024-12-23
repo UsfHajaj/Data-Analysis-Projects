@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1sjizdmMks9jmDpW57i_AhbRakb4iI9Fj/view?usp=drive_link)  
 - 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics, AI, NLP and LLM 
-- 📫 **Reach me at**: [dev.yosefys236@gmail.com](mailto:yosefys236@gmail.com) | **+20 1127609258**  
+- 📫 **Reach me at**: [Yousif Ibrahim Mail](mailto:yosefys236@gmail.com) | **+20 1127609258**  
 - ⚡ **Fun fact**: I transform complex data into clear, actionable insights!  
 - 📊 **Projects**: Check them out [**here**](https://github.com/UsfHajaj/Data-Analysis-Projects)  
 
