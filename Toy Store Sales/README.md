@@ -15,7 +15,7 @@
 
 # Project Overview
 
-![Overall Performance](Toy%Store%Sales/Images/Overview.png)
+![Overall Performance](Images/Overview.png)
 
 
 
