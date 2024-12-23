@@ -1,8 +1,3 @@
----
-title: "Healthcare Data Analysis"
-output: html_document
----
-
 ## Overall Summary
 
 *   **Total Patients:** The clinic has served a total of 9,216 patients.
@@ -52,6 +47,8 @@ output: html_document
 *   What is the timescale for the patients visits by year?
 *   What is the scale used for patient rating?
 *   What are the specific reasons for Administrative and Non-Administrative groupings of patients?
+# Project Overview
+![Patients Healthcare](Images/PatientsHealthcare.png)
 
 ## Conclusion
 
