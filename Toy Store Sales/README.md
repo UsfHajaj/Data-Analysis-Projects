@@ -15,13 +15,8 @@
 
 # Project Overview
 
-![Overall Performance](Toy%20Store%20Sales/Images/Screenshot%202024-12-09%20101055.png)
+![Overall Performance](Toy Store Sales/Images/Overview.png)
 
-![Overall Performance](Toy%20Store%20Sales/Images/Screenshot%202024-12-09%20101055.png)
-
-![Overall Performance](Toy%20Store%20Sales/Images/Screenshot%202024-12-09%20101055.png)
-
-![Overall Performance](Toy%Store%Sales/Images/Overview.png)
 
 
 
