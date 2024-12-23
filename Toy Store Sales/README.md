@@ -12,3 +12,5 @@
 
 ## Version Control
 <span style="background-color:#F0E68C; padding:2px 5px; border-radius:3px;font-weight:bold;">Git </span> - was instrumental for maintaining and versioning control of the project files
+
+![Overall Performance]()
